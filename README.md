@@ -10,18 +10,20 @@
 ## Навыки
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="js" width='40' height='40'/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="react" width='40' height='40'/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="ts" width='40' height='40'/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="node" width='40' height='40'/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="html" width='40' height='40'/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="css" width='40' height='40'/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="figma" width='40' height='40'/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="postgres" width='40' height='40'/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="tailwind" width='40' height='40'/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" title="next" width='40' height='40'/>&nbsp;
 
-<!--
-**Llitvinchuk/Llitvinchuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Статистика
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="stats" align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Llitvinchuk&theme=github_dark" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Llitvinchuk&theme=github_dark" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Llitvinchuk&theme=github_dark" />
+</div>
