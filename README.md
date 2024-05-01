@@ -5,7 +5,7 @@
 - 💻 В Web разработке больше 2 лет
 - 👩‍🎓 На данный момент изучаю **Web3**
 - 💫 Стремлюсь к усовершенствованию своих навыков
-- 💬 Связь со мной [email](lena12good@gmail.com)
+- 💬 Связь со мной [telegram](https://t.me/llitvinchuk)
 
 <!--
 **Llitvinchuk/Llitvinchuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
