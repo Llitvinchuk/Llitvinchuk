@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWlhejllMHh5ZGN5OWJ1MmYzdzB0b2d2d3g3eWNvdXZoNXF4dXk3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/smGCEo5zsAXtK4bqAT/giphy.gif" width="100"/>
+</div>
+
 <!--
 **Llitvinchuk/Llitvinchuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
